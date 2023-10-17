@@ -1,22 +1,22 @@
-# Dart Tutorial
+## Dart Tutorial
 
 Welcome to the Dart Tutorial! This tutorial is designed to help you get started with Dart programming. Whether you're a beginner or an experienced developer, you'll find valuable information here to enhance your skills in Dart.
 
 ## Table of Contents
 
 - [Dart Tutorial](#dart-tutorial)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Prerequisites](#prerequisites)
-  - [Getting Started](#getting-started)
-  - [Topics Covered](#topics-covered)
-  - [Dart Basics](#dart-basics)
-      - [1. Hello, Dart!](#1-hello-dart)
-    - [2. Variables and Data Types](#2-variables-and-data-types)
-    - [3. Control Flow](#3-control-flow)
-    - [4. Functions](#4-functions)
-  - [Contributing](#contributing)
-  - [Happy coding!](#happy-coding)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Topics Covered](#topics-covered)
+- [Dart Basics](#dart-basics)
+    - [1. Hello, Dart!](#1-hello-dart)
+  - [2. Variables and Data Types](#2-variables-and-data-types)
+  - [3. Control Flow](#3-control-flow)
+  - [4. Functions](#4-functions)
+- [Contributing](#contributing)
+- [Happy coding!](#happy-coding)
 
 ## Introduction
 
@@ -40,7 +40,7 @@ To get started with Dart, follow these steps:
 
 1. [Install Dart SDK](https://dart.dev/get-dart) on your system.
 2. Set up your development environment by configuring a code editor (e.g., Visual Studio Code) for Dart.
-3. Clone this repository or download the source code.
+3. Clone this [repository](https://github.com/mikeyolang/Dart-Tutorial.git)`
 
 ## Topics Covered
 
@@ -50,11 +50,7 @@ This tutorial covers the following topics:
 - Variables and data types
 - Control flow (if-else, switch, loops)
 - Functions and error handling
-- Classes and object-oriented programming
-- Asynchronous programming
-- Libraries and packages
-- Testing in Dart
-
+  
 Feel free to explore the code and documentation for each topic in detail.
 ## Dart Basics
 
@@ -124,7 +120,7 @@ void main() {
 ```
 ## Contributing
 
-If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request. We welcome contributions from the community to make this tutorial even better!
+If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request in my [GitHub Repository](https://github.com/mikeyolang/Dart-Tutorial.git). We welcome contributions from the community to make this tutorial even better!
 
 To contribute, follow these steps:
 1. Fork the repository.
