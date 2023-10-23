@@ -12,3 +12,10 @@ void main(List<String> args) {
   var person1 = Person("Mike", 25);
   person1.showOutput();
 }
+
+class X {
+  final name;
+  static const int age = 10;
+
+  X(this.name);
+}
