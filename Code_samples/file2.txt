@@ -1,0 +1,2 @@
+Welcome to File2.txt
+This is the second line
